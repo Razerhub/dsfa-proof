@@ -1,0 +1,7 @@
+SHA-256 hash of CAPITALAIZE™ DSFA Core Spec v1.0:
+
+52e023eda8bda6ec75f8dba5bdf6595d873a92f60a26207c6a9beb6f0a3cf13d
+
+Generated on: 2025-06-24
+Author: Denagharan Subramaniam
+
